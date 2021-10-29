@@ -6,51 +6,47 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Raudhatul Athfal Thola' Al-Badr</title>
-    <link rel="stylesheet" href="<?= base_url('css/app.css') ?>">
-    <script src="<?= base_url('js/app.js') ?>"  ></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="template-description" content="Shelly - Website" />
+    <meta name="template-author" content="merkulove">
+    <meta name="template-keywords" content="" />
+    <meta name="description" content="Website resmi RA Thola'al Badr" />
+    <meta name="author" content="Aghits Nidallah">
+    <meta name="keywords" content="Website RA Thola'al Badr Cirebon Gunung Jati" />
+    <link rel="stylesheet" type="text/css" href="<?= base_url('assets/css/animate.css') ?>">
+    <link rel="stylesheet" type="text/css" href="<?= base_url('assets/css/bootstrap.min.css') ?>">
+    <link rel="stylesheet" type="text/css" href="<?= base_url('assets/css/font-awesome.min.css') ?>">
+    <link rel="stylesheet" type="text/css" href="<?= base_url('assets/css/main.css') ?>">
+    <link rel="stylesheet" type="text/css" href="<?= base_url('assets/css/responsive.css') ?>">
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <div class="container-fluid">
-            <a class="navbar-brand" href="#">Navbar</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                    <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Link</a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Dropdown
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="#">Action</a></li>
-                            <li><a class="dropdown-item" href="#">Another action</a></li>
-                            <li>
-                                <hr class="dropdown-divider">
-                            </li>
-                            <li><a class="dropdown-item" href="#">Something else here</a></li>
-                        </ul>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link disabled">Disabled</a>
-                    </li>
-                </ul>
-                <form class="d-flex">
-                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                    <button class="btn btn-outline-success" type="submit">Search</button>
-                </form>
-            </div>
-        </div>
-    </nav>
+    <div class="wrapper">
+		<div class="main-section">
+            <header>
+                <div class="container">
+                    <?= $this->include('layouts/header') ?>
+                    <?= $this->include('layouts/navigation') ?>
+                </div>
+            </header>
 
-    <?= $this->renderSection('content') ?>
+            <?= $this->include('layouts/responsive-nav') ?>
+
+			<?= $this->renderSection('banner') ?>
+        </div>
+
+        <?= $this->renderSection('content') ?>
+
+        <?= $this->include('layouts/footer') ?>
+    </div>
+
+    <script src="<?= base_url('/assets/js/jquery.js') ?>"></script>
+    <script src="<?= base_url('/assets/js/bootstrap.min.js') ?>"></script>
+    <script src="<?= base_url('/assets/js/isotope.js') ?>"></script>
+    <script src="<?= base_url('/assets/js/html5lightbox.js') ?>"></script>
+    <script src="<?= base_url('/assets/js/slick.min.js') ?>"></script>
+    <script src="<?= base_url('/assets/js/tweenMax.js') ?>"></script>
+    <script src="<?= base_url('/assets/js/scripts.js') ?>"></script>
 </body>
 
 </html>

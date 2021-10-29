@@ -5,16 +5,16 @@
                 <a href="<?= site_url('/') ?>">Beranda</a>
             </li>
             <li>
-                <a href="<?= site_url('/sejarah') ?>">Sejarah</a>
+                <a href="<?= site_url('/Sejarah') ?>">Sejarah</a>
             </li>
             <li>
-                <a href="<?= site_url('/visi_dan_misi') ?>">Visi & Misi</a>
+                <a href="<?= site_url('/VisiDanMisi') ?>">Visi & Misi</a>
             </li>
             <li>
-                <a href="<?= site_url('/prestasi') ?>">Prestasi</a>
+                <a href="<?= site_url('/Prestasi') ?>">Prestasi</a>
             </li>
             <li>
-                <a href="<?= site_url('/kontak') ?>">Kontak</a>
+                <a href="<?= site_url('/Kontak') ?>">Kontak</a>
             </li>
         </ul>
     </nav>

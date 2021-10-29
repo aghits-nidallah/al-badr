@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="widget widget-about">
-                        <img src="<?= base_url('assets/img/logo.png') ?>" alt="">
+                        <img src="<?= base_url('assets/ratb/logo.png') ?>" alt="" width="162" height="57">
                         <p>Situs resmi RA Thola'al Badr. Seluruh hak cipta, tema, galeri, dan narasi tetap menjadi milik masing-masing individual/korporat.</p>
                     </div>
                     <!--widget-about end-->

@@ -13,6 +13,7 @@
     <meta name="description" content="Website resmi RA Thola'al Badr" />
     <meta name="author" content="Aghits Nidallah">
     <meta name="keywords" content="Website RA Thola'al Badr Cirebon Gunung Jati" />
+    <link rel="shortcut icon" href="<?= base_url('assets/ratb/logo_only.png') ?>" type="image/x-icon">
     <link rel="stylesheet" type="text/css" href="<?= base_url('assets/css/animate.css') ?>">
     <link rel="stylesheet" type="text/css" href="<?= base_url('assets/css/bootstrap.min.css') ?>">
     <link rel="stylesheet" type="text/css" href="<?= base_url('assets/css/font-awesome.min.css') ?>">

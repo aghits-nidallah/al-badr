@@ -1,7 +1,7 @@
 <div class="header-content d-flex flex-wrap align-items-center">
     <div class="logo">
         <a href="index.html" title="">
-            <img src="<?= base_url('assets/img/logo.png') ?>" alt="" srcset="<?= base_url('assets/img/01_Logo_2x.png') ?> 2x">
+            <img src="<?= base_url('assets/ratb/logo.png') ?>" alt="" width="162" height="57">
         </a>
     </div><!--logo end-->
     <ul class="contact-add d-flex flex-wrap">

@@ -9,8 +9,8 @@
             <div class="contact-info">
                 <img src="<?= base_url('assets/img/icon1.png') ?>" alt="">
                 <div class="contact-tt">
-                    <h4>Call</h4>
-                    <span>+2 342 5446 67</span>
+                    <h4>WhatsApp</h4>
+                    <span><a href="https://wa.me/+6281223612624">+62 812 2361 2624</a></span>
                 </div>
             </div><!--contact-info end-->
         </li>
@@ -18,8 +18,8 @@
             <div class="contact-info">
                 <img src="<?= base_url('assets/img/icon2.png') ?>" alt="">
                 <div class="contact-tt">
-                    <h4>Work Time</h4>
-                    <span>Mon - Fri 8 AM - 5 PM</span>
+                    <h4>Jam Belajar</h4>
+                    <span>Senin - Sabtu 07:30 - 11:00</span>
                 </div>
             </div><!--contact-info end-->
         </li>
@@ -27,8 +27,8 @@
             <div class="contact-info">
                 <img src="<?= base_url('assets/img/icon3.png') ?>" alt="">
                 <div class="contact-tt">
-                    <h4>Address</h4>
-                    <span>Franklin St, Greenpoint Ave</span>
+                    <h4>Alamat</h4>
+                    <span>Gunungjati, Cirebon, Jawa Barat 45151</span>
                 </div>
             </div><!--contact-info end-->
         </li>

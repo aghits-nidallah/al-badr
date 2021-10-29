@@ -62,7 +62,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="widget widget-iframe">
-                        <iframe src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=1%20Grafton%20Street,%20Dublin,%20Ireland+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15851.154543126477!2d108.544678!3d-6.673091!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5dc4cb66d30d7b07!2sRA%20THOLA%20&#39;AL%20BADR!5e0!3m2!1sen!2sus!4v1635481826708!5m2!1sen!2sus&z=18" width="100" height="100" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                     </div>
                     <!--widget-iframe end-->
                 </div>

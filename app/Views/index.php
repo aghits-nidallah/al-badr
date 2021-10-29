@@ -68,16 +68,16 @@
         </div><!--about-rw end-->
         <div class="abt-img">
             <ul class="masonary">
-                <li class="width1 wow zoomIn" data-wow-duration="1000ms"><a href="<?= site_url('assets/ratb/img_2.png') ?>" data-group="set1" title="" class="html5lightbox"><img src="<?= site_url('assets/ratb/img_2.png') ?>" alt=""></a></li>
-                <li class="width2 wow zoomIn" data-wow-duration="1000ms"><a href="<?= site_url('assets/ratb/img_3.png') ?>" data-group="set1" title="" class="html5lightbox"><img src="<?= site_url('assets/ratb/img_3.png') ?>" alt=""></a></li>
-                <li class="width3 wow zoomIn" data-wow-duration="1000ms"><a href="<?= site_url('assets/ratb/img_4.png') ?>" data-group="set1" title="" class="html5lightbox"><img src="<?= site_url('assets/ratb/img_4.png') ?>" alt=""></a></li>
-                <li class="width4 wow zoomIn" data-wow-duration="1000ms"><a href="<?= site_url('assets/ratb/img_5.png') ?>" data-group="set1" title="" class="html5lightbox"><img src="<?= site_url('assets/ratb/img_5.png') ?>" alt=""></a></li>
-                <li class="width5 wow zoomIn" data-wow-duration="1000ms"><a href="<?= site_url('assets/ratb/img_6.png') ?>" data-group="set1" title="" class="html5lightbox"><img src="<?= site_url('assets/ratb/img_6.png') ?>" alt=""></a></li>
-                <li class="width6 wow zoomIn" data-wow-duration="1000ms"><a href="<?= site_url('assets/ratb/img_7.png') ?>" data-group="set1" title="" class="html5lightbox"><img src="<?= site_url('assets/ratb/img_7.png') ?>" alt=""></a></li>
-                <li class="width7 wow zoomIn" data-wow-duration="1000ms"><a href="<?= site_url('assets/ratb/img_8.png') ?>" data-group="set1" title="" class="html5lightbox"><img src="<?= site_url('assets/ratb/img_8.png') ?>" alt=""></a></li>
-                <li class="width8 wow zoomIn" data-wow-duration="1000ms"><a href="<?= site_url('assets/ratb/img_9.png') ?>" data-group="set1" title="" class="html5lightbox"><img src="<?= site_url('assets/ratb/img_9.png') ?>" alt=""></a></li>
-                <li class="width9 wow zoomIn" data-wow-duration="1000ms"><a href="<?= site_url('assets/ratb/img_10.png') ?>" data-group="set1" title="" class="html5lightbox"><img src="<?= site_url('assets/ratb/img_10.png') ?>" alt=""></a></li>
-                <li class="width10 wow zoomIn" data-wow-duration="1000ms"><a href="<?= site_url('assets/ratb/img_11.png') ?>" data-group="set1" title="" class="html5lightbox"><img src="<?= site_url('assets/ratb/img_11.png') ?>" alt=""></a></li>
+                <li class="width1 wow zoomIn" data-wow-duration="1000ms"><a href="<?= site_url('assets/ratb/img_2.webp') ?>" data-group="set1" title="" class="html5lightbox"><img src="<?= site_url('assets/ratb/img_2.webp') ?>" alt=""></a></li>
+                <li class="width2 wow zoomIn" data-wow-duration="1000ms"><a href="<?= site_url('assets/ratb/img_3.webp') ?>" data-group="set1" title="" class="html5lightbox"><img src="<?= site_url('assets/ratb/img_3.webp') ?>" alt=""></a></li>
+                <li class="width3 wow zoomIn" data-wow-duration="1000ms"><a href="<?= site_url('assets/ratb/img_4.webp') ?>" data-group="set1" title="" class="html5lightbox"><img src="<?= site_url('assets/ratb/img_4.webp') ?>" alt=""></a></li>
+                <li class="width4 wow zoomIn" data-wow-duration="1000ms"><a href="<?= site_url('assets/ratb/img_5.webp') ?>" data-group="set1" title="" class="html5lightbox"><img src="<?= site_url('assets/ratb/img_5.webp') ?>" alt=""></a></li>
+                <li class="width5 wow zoomIn" data-wow-duration="1000ms"><a href="<?= site_url('assets/ratb/img_6.webp') ?>" data-group="set1" title="" class="html5lightbox"><img src="<?= site_url('assets/ratb/img_6.webp') ?>" alt=""></a></li>
+                <li class="width6 wow zoomIn" data-wow-duration="1000ms"><a href="<?= site_url('assets/ratb/img_7.webp') ?>" data-group="set1" title="" class="html5lightbox"><img src="<?= site_url('assets/ratb/img_7.webp') ?>" alt=""></a></li>
+                <li class="width7 wow zoomIn" data-wow-duration="1000ms"><a href="<?= site_url('assets/ratb/img_8.webp') ?>" data-group="set1" title="" class="html5lightbox"><img src="<?= site_url('assets/ratb/img_8.webp') ?>" alt=""></a></li>
+                <li class="width8 wow zoomIn" data-wow-duration="1000ms"><a href="<?= site_url('assets/ratb/img_9.webp') ?>" data-group="set1" title="" class="html5lightbox"><img src="<?= site_url('assets/ratb/img_9.webp') ?>" alt=""></a></li>
+                <li class="width9 wow zoomIn" data-wow-duration="1000ms"><a href="<?= site_url('assets/ratb/img_10.webp') ?>" data-group="set1" title="" class="html5lightbox"><img src="<?= site_url('assets/ratb/img_10.webp') ?>" alt=""></a></li>
+                <li class="width10 wow zoomIn" data-wow-duration="1000ms"><a href="<?= site_url('assets/ratb/img_11.webp') ?>" data-group="set1" title="" class="html5lightbox"><img src="<?= site_url('assets/ratb/img_11.webp') ?>" alt=""></a></li>
             </ul>
         </div><!-- abt-img end-->
     </div>

@@ -29,7 +29,7 @@
 <section class="about-us-section">
     <div  class="container">
         <div class="section-title text-center">
-            <h2>Welcome to <span>Shelly</span></h2>
+            <h2>Selamat datang di <span>RA Thola'al Badr</span></h2>
             <p>Nunc consectetur ex nunc, id porttitor leo semper eget. Vivamus interdum, mauris quis cursus sodales, urn</p>
         </div><!--section-title end-->
         <div class="about-sec">

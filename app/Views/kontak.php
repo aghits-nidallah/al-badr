@@ -10,7 +10,7 @@
                 <li><span>Kontak</span></li>
             </ul>
         </div><!--pager-content end-->
-        <h2 class="page-titlee">Shelly</h2>
+        <h2 class="page-titlee">Al Badr</h2>
     </div>
 </section><!--pager-section end-->
 

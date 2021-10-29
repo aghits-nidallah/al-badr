@@ -74,7 +74,7 @@
         <div class="bottom-footer">
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-6 col-sm-6">
-                    <p>© Copyrights 2020 Shelly All rights reserved</p>
+                    <p>© Copyrights 2020 Shelly - Modified by Aghits Nidallah (190511038)</p>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-6">
                     <ul class="social-links">

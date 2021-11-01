@@ -94,7 +94,7 @@
                 <div class="col-lg-3">
                     <div class="classes-col wow fadeInUp" data-wow-duration="1000ms">
                         <div class="class-thumb">
-                            <img src="<?= site_url('assets/ratb/abdul_ghofar.png') ?>" alt="" class="w-100" style="height: 350px !important">
+                            <img src="<?= site_url('assets/ratb/abdul_ghofar.jpeg') ?>" alt="" class="w-100" style="height: 400px !important">
                         </div>
                         <div class="class-info">
                             <h3>Abdul Ghofar, S.Pd.I</h3>
@@ -106,7 +106,7 @@
                 <div class="col-lg-3">
                     <div class="classes-col wow fadeInUp" data-wow-duration="1000ms">
                         <div class="class-thumb">
-                            <img src="<?= site_url('assets/ratb/ropiqoh.png') ?>" alt="" class="w-100" style="height: 350px !important">
+                            <img src="<?= site_url('assets/ratb/ropiqoh.jpeg') ?>" alt="" class="w-100" style="height: 400px !important">
                         </div>
                         <div class="class-info">
                             <h3>Ropiqoh, S.Pd.I</h3>
@@ -118,7 +118,7 @@
                 <div class="col-lg-3">
                     <div class="classes-col wow fadeInUp" data-wow-duration="1000ms">
                         <div class="class-thumb">
-                            <img src="<?= site_url('assets/ratb/marzujah.png') ?>" alt="" class="w-100" style="height: 350px !important">
+                            <img src="<?= site_url('assets/ratb/marzujah.jpeg') ?>" alt="" class="w-100" style="height: 400px !important">
                         </div>
                         <div class="class-info">
                             <h3>Marzujah, S.Pd</h3>
@@ -130,7 +130,7 @@
                 <div class="col-lg-3">
                     <div class="classes-col wow fadeInUp" data-wow-duration="1000ms">
                         <div class="class-thumb">
-                            <img src="<?= site_url('assets/ratb/sumira.png') ?>" alt="" class="w-100" style="height: 350px !important">
+                            <img src="<?= site_url('assets/ratb/sumira.jpeg') ?>" alt="" class="w-100" style="height: 400px !important">
                         </div>
                         <div class="class-info">
                             <h3>Sumira, S.Pd</h3>
@@ -142,7 +142,7 @@
                 <div class="col-lg-3">
                     <div class="classes-col wow fadeInUp" data-wow-duration="1000ms">
                         <div class="class-thumb">
-                            <img src="<?= site_url('assets/ratb/saeni.png') ?>" alt="" class="w-100" style="height: 350px !important">
+                            <img src="<?= site_url('assets/ratb/saeni.jpeg') ?>" alt="" class="w-100" style="height: 400px !important">
                         </div>
                         <div class="class-info">
                             <h3>Saeni, S.Pd.I</h3>
@@ -154,7 +154,7 @@
                 <div class="col-lg-3">
                     <div class="classes-col wow fadeInUp" data-wow-duration="1000ms">
                         <div class="class-thumb">
-                            <img src="<?= site_url('assets/ratb/siti_saomi.png') ?>" alt="" class="w-100" style="height: 350px !important">
+                            <img src="<?= site_url('assets/ratb/siti_saomi.jpeg') ?>" alt="" class="w-100" style="height: 400px !important">
                         </div>
                         <div class="class-info">
                             <h3>Siti Saomi, S.Pd</h3>
@@ -166,7 +166,7 @@
                 <div class="col-lg-3">
                     <div class="classes-col wow fadeInUp" data-wow-duration="1000ms">
                         <div class="class-thumb">
-                            <img src="<?= site_url('assets/ratb/yayah_fitriyah.png') ?>" alt="" class="w-100" style="height: 350px !important">
+                            <img src="<?= site_url('assets/ratb/yayah_fitriyah.jpeg') ?>" alt="" class="w-100" style="height: 400px !important">
                         </div>
                         <div class="class-info">
                             <h3>Yayah Fitriyah, S.Pd</h3>
@@ -178,7 +178,7 @@
                 <div class="col-lg-3">
                     <div class="classes-col wow fadeInUp" data-wow-duration="1000ms">
                         <div class="class-thumb">
-                            <img src="<?= site_url('assets/ratb/fatihah.png') ?>" alt="" class="w-100" style="height: 350px !important">
+                            <img src="<?= site_url('assets/ratb/fatihah.jpeg') ?>" alt="" class="w-100" style="height: 400px !important">
                         </div>
                         <div class="class-info">
                             <h3>Fatihah, S.Pd.I</h3>
@@ -190,7 +190,7 @@
                 <div class="col-lg-3">
                     <div class="classes-col wow fadeInUp" data-wow-duration="1000ms">
                         <div class="class-thumb">
-                            <img src="<?= site_url('assets/ratb/ekawati.png') ?>" alt="" class="w-100" style="height: 350px !important">
+                            <img src="<?= site_url('assets/ratb/ekawati.jpeg') ?>" alt="" class="w-100" style="height: 400px !important">
                         </div>
                         <div class="class-info">
                             <h3>Ekawati, S.Pd.I</h3>
@@ -202,7 +202,7 @@
                 <div class="col-lg-3">
                     <div class="classes-col wow fadeInUp" data-wow-duration="1000ms">
                         <div class="class-thumb">
-                            <img src="<?= site_url('assets/ratb/masnuah.png') ?>" alt="" class="w-100" style="height: 350px !important">
+                            <img src="<?= site_url('assets/ratb/masnuah.jpeg') ?>" alt="" class="w-100" style="height: 400px !important">
                         </div>
                         <div class="class-info">
                             <h3>Masnuah</h3>
@@ -214,7 +214,7 @@
                 <div class="col-lg-3">
                     <div class="classes-col wow fadeInUp" data-wow-duration="1000ms">
                         <div class="class-thumb">
-                            <img src="<?= site_url('assets/ratb/ina_dwi_riyani.png') ?>" alt="" class="w-100" style="height: 350px !important">
+                            <img src="<?= site_url('assets/ratb/ina_dwi_riyani.jpeg') ?>" alt="" class="w-100" style="height: 400px !important">
                         </div>
                         <div class="class-info">
                             <h3>Ina Dwi Riyani</h3>
@@ -226,7 +226,7 @@
                 <div class="col-lg-3">
                     <div class="classes-col wow fadeInUp" data-wow-duration="1000ms">
                         <div class="class-thumb">
-                            <img src="<?= site_url('assets/ratb/irma.png') ?>" alt="" class="w-100" style="height: 350px !important">
+                            <img src="<?= site_url('assets/ratb/irma.jpeg') ?>" alt="" class="w-100" style="height: 400px !important">
                         </div>
                         <div class="class-info">
                             <h3>Irma</h3>
@@ -238,7 +238,7 @@
                 <div class="col-lg-3">
                     <div class="classes-col wow fadeInUp" data-wow-duration="1000ms">
                         <div class="class-thumb">
-                            <img src="<?= site_url('assets/ratb/zidny_farhatal_aisy.png') ?>" alt="" class="w-100" style="height: 350px !important">
+                            <img src="<?= site_url('assets/ratb/zidny_farhatal_aisy.jpeg') ?>" alt="" class="w-100" style="height: 400px !important">
                         </div>
                         <div class="class-info">
                             <h3>Zidny Farhatal 'Aisy</h3>
@@ -250,7 +250,7 @@
                 <div class="col-lg-3">
                     <div class="classes-col wow fadeInUp" data-wow-duration="1000ms">
                         <div class="class-thumb">
-                            <img src="<?= site_url('assets/ratb/nur_fatimah.png') ?>" alt="" class="w-100" style="height: 350px !important">
+                            <img src="<?= site_url('assets/ratb/nur_fatimah.jpeg') ?>" alt="" class="w-100" style="height: 400px !important">
                         </div>
                         <div class="class-info">
                             <h3>Nur Fatimah, S.Pd.I</h3>
@@ -262,10 +262,10 @@
                 <div class="col-lg-3">
                     <div class="classes-col wow fadeInUp" data-wow-duration="1000ms">
                         <div class="class-thumb">
-                            <img src="<?= site_url('assets/ratb/ghina_shabrira_bar.png') ?>" alt="" class="w-100" style="height: 350px !important">
+                            <img src="<?= site_url('assets/ratb/gina_shabrina_bar.jpeg') ?>" alt="" class="w-100" style="height: 400px !important">
                         </div>
                         <div class="class-info">
-                            <h3>Ghina Shabrira Bar, S.Pd.I</h3>
+                            <h3>Gina Shabrina Bar, S.Pd.I</h3>
                             <p>Crb, 15 November 1991</p>
                             <p>085320354051</p>
                         </div>
@@ -274,7 +274,7 @@
                 <div class="col-lg-3">
                     <div class="classes-col wow fadeInUp" data-wow-duration="1000ms">
                         <div class="class-thumb">
-                            <img src="<?= site_url('assets/ratb/nur_fitriani.png') ?>" alt="" class="w-100" style="height: 350px !important">
+                            <img src="<?= site_url('assets/ratb/nur_fitriani.jpeg') ?>" alt="" class="w-100" style="height: 400px !important">
                         </div>
                         <div class="class-info">
                             <h3>Nur Fitriani S.Pd.I</h3>
